@@ -18,17 +18,19 @@ I graduated from **Ain Shams University** with a degree in Computer Science. Cur
 
 ### 💻 Skills & Technologies
 
-| Backend & Languages                | Tools & Platforms               | Design & Marketing             |
-|----------------------------------|--------------------------------|-------------------------------|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) ![Marketing](https://img.shields.io/badge/Social%20Marketing-ff4081?style=for-the-badge&logo=marketing&logoColor=white) |
+| Backend & Languages                              | Tools & Platforms               | Design & Marketing             |
+|------------------------------------------------|--------------------------------|-------------------------------|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) ![Marketing](https://img.shields.io/badge/Social%20Marketing-ff4081?style=for-the-badge&logo=marketing&logoColor=white) |
 
 ---
 
 ### 📚 Current Learning
 
-- 📖 Deepening backend knowledge with **Node.js** and **Express.js**  
+- 📖 Deepening backend knowledge with **Node.js**, **Express.js**, and **TypeScript**  
 - 📚 Strengthening JavaScript fundamentals with *Eloquent JavaScript*  
-- 💻 Building real-world backend projects and APIs  
+- 💻 Learning **MongoDB** for database management  
+- 🌐 Enhancing frontend basics with **HTML5** and **CSS3** to complement backend development  
+- 🚀 Building real-world backend projects and APIs  
 
 ---
 
