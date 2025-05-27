@@ -12,7 +12,7 @@
 
 I’m a passionate **Backend Engineer** specializing in **Node.js**, driven by building efficient and scalable backend systems. With a creative background in design and social media management, I blend technical skills with innovative thinking to deliver quality solutions.
 
-Currently leveling up my backend expertise, focusing on **Node.js** and related technologies, while seeking exciting remote or Egypt-based roles.
+I graduated from **Ain Shams University** with a degree in Computer Science. Currently leveling up my backend expertise, focusing on **Node.js** and related technologies, while seeking exciting remote or Egypt-based roles.
 
 ---
 
@@ -42,15 +42,6 @@ Currently leveling up my backend expertise, focusing on **Node.js** and related 
 
 - 🎨 **Graphic Designer** at Discovery Academy  
   _Designed branding & promotional materials for the Global Robotics Challenge._
-
----
-
-### 📂 Featured Projects
-
-<!-- Add your projects here -->
-
-- [Project Name](GitHub-link) — Brief description about the project and tech used.  
-- [Project Name](GitHub-link) — Brief description about the project and tech used.
 
 ---
 
